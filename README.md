@@ -1,11 +1,10 @@
+<h1>Ayo,</h1>
 
-*lol*
 
-🤍 Hi, I’m @paradiseDeveloping
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🤍 Developer for Python, Web, C# 
+- 🖤 Contact me at Discord - @paradise#0666
+
+<img src="https://github-readme-stats.vercel.app/api?username=paradisedevelopment&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!---
 paradiseDeveloping/paradiseDeveloping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
