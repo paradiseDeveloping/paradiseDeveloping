@@ -1,10 +1,18 @@
-# Ayo,
+<h1> 
+  <p align="center">
+    paradise#0666
+  </p>
+</h1>
 
-
+<p align="center">
 - 🤍 Developer for Python, Web, C# 
-- 🖤 Contact me at Discord - @paradise#0666
+  <br>
+- 🖤 Contact me at Discord
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=paradisedevelopment&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p align="center">
+  <img src="https://github.com/paradiseDeveloping/pictures/blob/main/giphy.gif">
+</p>
 
 <!---
 paradiseDeveloping/paradiseDeveloping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
